@@ -1,0 +1,4 @@
+/home/ahmed/c++/guivideo/build/CMakeFiles/VideoDeduplicator.dir
+/home/ahmed/c++/guivideo/build/CMakeFiles/edit_cache.dir
+/home/ahmed/c++/guivideo/build/CMakeFiles/rebuild_cache.dir
+/home/ahmed/c++/guivideo/build/CMakeFiles/VideoDeduplicator_autogen.dir
