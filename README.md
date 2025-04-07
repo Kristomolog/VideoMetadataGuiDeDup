@@ -65,3 +65,6 @@ Videoların süresine göre filtreleme yapabilirsiniz.
 ## Katkıda Bulunma
 
 Eğer katkıda bulunmak isterseniz, lütfen pull request göndermeden önce bir issue açın veya öneri bırakın.
+
+
+📌 [English Version](README_en.md)
